@@ -1,2 +1,3 @@
 # Number-game
-Author: Pankaj Thapa &lt;br> A simple number game in java language using basic knowledge
+Author: Pankaj Thapa 
+A simple number game in java programming language using the basic knowledge.
